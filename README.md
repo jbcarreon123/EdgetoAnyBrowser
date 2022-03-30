@@ -22,7 +22,7 @@ Afraid from downloading the EXE file or you want to modify it?
 # Program Comparisons
 Name|[Edge Deflector](https://github.com/da2x/EdgeDeflector)|[ChrEdgeFkOff](https://github.com/AveYo/fox/blob/main/ChrEdgeFkOff.cmd)|[NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge)|[Search Deflector](https://github.com/spikespaz/search-deflector)|[MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect/)|[EdgetoAnyBrowser](github.com/jbcarreon123/EdgetoAnyBrowser)
 ----|----|----|----|----|----|----|
-Redirection Modes|URI Handler<br/><br/>|IFEO<br/><br/>|IFEO<br/><br/>|URI Handler<br/><br/>|URI Detection<br/>or IFEO|Replaces Edge Executable,<br/>URI Detection<br/> or IFEO<sup>**</sup>|
+Redirection Modes|URI Handler<br/><br/>|IFEO<br/><br/>|IFEO<br/><br/>|URI Handler<br/><br/>|URI Detection<br/>or IFEO|Replaces Edge Executable<br/>(URI Detection)<br/> or IFEO<sup>**</sup>|
 Redirects Search|☑|☑|☑|☑|☑|☑|
 Installs without Admin|☑| | | |☑| 
 Windows 11 Support| |☑|☑| |☑|☑|
