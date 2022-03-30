@@ -20,7 +20,7 @@ Afraid from downloading the EXE file or you want to modify it?
 4. The file should appear on the same folder as the `msedge.ahk`. Enjoy!
 
 # Download
-[Download latest version](https://github.com/jbcarreon123/EdgetoAnyBrowser/releases/latest/download/MSEdgeRedirect.exe)
+[Download latest version](https://github.com/jbcarreon123/EdgetoAnyBrowser/releases/latest/download/MSEdgeRedirect.exe)<br/>
 [Download latest AHK script](https://github.com/jbcarreon123/EdgetoAnyBrowser/raw/main/msedge.ahk)
 
 
