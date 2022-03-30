@@ -19,27 +19,23 @@ Afraid from downloading the EXE file or you want to modify it?
 3. Right-click the `msedge.ahk` and click Compile Script
 4. The file should appear on the same folder as the `msedge.ahk`. Enjoy!
 
-# Program Comparison
- |[Edge Deflector](https://github.com/da2x/EdgeDeflector)|[ChrEdgeFkOff](https://github.com/AveYo/fox/blob/main/ChrEdgeFkOff.cmd)|[NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge)|[Search Deflector](https://github.com/spikespaz/search-deflector)|[MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect/)
-----|----|----|----|----|----
-Redirection Modes|URI Handler<br/><br/>|IFEO<br/><br/>|IFEO<br/><br/>|URI Handler<br/><br/>|URI Detection<sup>*</sup><br/>or IFEO<sup>†</sup>
-Redirects Search|☑|☑|☑|☑|☑
-Installs without Admin|☑| | | |☑<sup>*</sup>
-Windows 11 Support| |☑|☑| |☑
-Windows 10 21H2+ Support| |☑|☑| |☑
-Windows on ARM Support| |☑|☑| |
-Installs System Wide| |☑|☑|☑, Optionally|☑<sup>†</sup>
-Can be silently Deployed| |☑|☑| |☑
-Update Checker Module| | |☑|☑|☑
-Search Engine Customizations| | |☑, 8|☑, 14|☑, 9
-Search Engine Shortcut Support| | |☑, DDG !Bang| | 
-Weather Forecast Customizations| | | | |☑, 6
-Customizable Edge Support| | | | |☑<sup>†</sup>
-Can be used Portably (USB)| | | | |☑<sup>‡</sup>
-Supports GPO Registry Keys| | | | |☑
+# Program Comparisons
+Name|[Edge Deflector](https://github.com/da2x/EdgeDeflector)|[ChrEdgeFkOff](https://github.com/AveYo/fox/blob/main/ChrEdgeFkOff.cmd)|[NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge)|[Search Deflector](https://github.com/spikespaz/search-deflector)|[MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect/)|[EdgetoAnyBrowser](github.com/jbcarreon123/EdgetoAnyBrowser)
+----|----|----|----|----|----|----|
+Redirection Modes|URI Handler<br/><br/>|IFEO<br/><br/>|IFEO<br/><br/>|URI Handler<br/><br/>|URI Detection<br/>or IFEO|Replaces Edge Executable,<br/>URI Detection<br/> or IFEO<sup>**</sup>|
+Redirects Search|☑|☑|☑|☑|☑|☑|
+Installs without Admin|☑| | | |☑| 
+Windows 11 Support| |☑|☑| |☑|☑|
+Windows 10 21H2+ Support| |☑|☑| |☑|☑|
+Windows on ARM Support| |☑|☑| | |
+Installs System Wide| |☑|☑|☑, Optionally|☑|☑|
+Can be silently Deployed| |☑|☑| |☑| |<sup>*</sup>|
+Update Checker Module| | |☑|☑|☑|<sup>**</sup>|
+Search Engine Customizations| | |☑, 8|☑, 14|☑, 9|<sup>**</sup>|
+Search Engine Shortcut Support| | |☑, DDG !Bang| | |<sup>**</sup>|
+Weather Forecast Customizations| | | | |☑, 6| |
+Customizable Edge Support| | | | |☑|<sup>**</sup>|
+Can be used Portably (USB)| | | | |☑| |
+Supports GPO Registry Keys| | | | |☑| |
 
-
-<sub><sup>\* When using Service Mode, † When using Active Mode, ‡ When using /portable flag, uses Service Mode</sub></sup>
-
-
-<sub><sup>\* When using Service Mode, † When using Active Mode, ‡ When using /portable flag, uses Service Mode</sub></sup>
+<sup>*</sup> Untested, <sup>**</sup> Will be featured on future builds
