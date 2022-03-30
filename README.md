@@ -19,6 +19,11 @@ Afraid from downloading the EXE file or you want to modify it?
 3. Right-click the `msedge.ahk` and click Compile Script
 4. The file should appear on the same folder as the `msedge.ahk`. Enjoy!
 
+# Download
+[Download latest version](https://github.com/jbcarreon123/EdgetoAnyBrowser/releases/latest/download/MSEdgeRedirect.exe)
+[Download latest AHK script](https://github.com/jbcarreon123/EdgetoAnyBrowser/raw/main/msedge.ahk)
+
+
 # Program Comparisons
 Name|[Edge Deflector](https://github.com/da2x/EdgeDeflector)|[ChrEdgeFkOff](https://github.com/AveYo/fox/blob/main/ChrEdgeFkOff.cmd)|[NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge)|[Search Deflector](https://github.com/spikespaz/search-deflector)|[MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect/)|[EdgetoAnyBrowser](github.com/jbcarreon123/EdgetoAnyBrowser)
 ----|----|----|----|----|----|----|
