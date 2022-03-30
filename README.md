@@ -1,6 +1,8 @@
 # EdgetoAnyBrowser
 A app that redirects `microsoft-edge:` URLs to normal URLs that can used by any browser
 
+> ℹ This repository is on life support. Expect fewer releases (but I trying to make a release monthly)
+
 # How it works
 Basically, it replaces the actual Microsoft Edge executable `msedge.exe` so it can run even the latest versions of Windows 10 and 11 without Image File Execution Options! I'm planning to add a IFEO option later.
 
